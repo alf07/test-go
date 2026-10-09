@@ -1,1 +1,4 @@
 config.env
+coverage.out
+.idea/
+*.iml
